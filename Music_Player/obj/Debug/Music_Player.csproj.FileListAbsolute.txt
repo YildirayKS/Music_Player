@@ -1,0 +1,17 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.ResolveComReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Music_Player\Music_Player\obj\Debug\Interop.WMPRichPreviewLauncher.dll

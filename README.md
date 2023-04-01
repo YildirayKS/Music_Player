@@ -1,2 +1,1 @@
-# Music_Player
- 
+**This program was created to play music files with the ".mp3" extension. But other extensions can be added thanks to an array in it.**
